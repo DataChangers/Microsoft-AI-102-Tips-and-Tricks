@@ -28,7 +28,7 @@ An important recommendation would be to really **do the labs**. That means that 
 - Make it your own. It might be sometimes easier to “just click”, especially when you are offered to click to get the right code. It takes more time, but when possible, I would recommend you to write the required code yourself.
 - Go one step further. There are a lot of links to the Microsoft documentation during your path. Take that opportunity and click on them. 
 
-If you want to review the labs, the easy way is to go to the corresponding GitHub AI-102 AI Engineer repo. Clone this repo, and in the folder “Instructions” you will find all the labs.
+If you want to review the labs, the easy way is to go to the corresponding GitHub [AI-102 AI Engineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) repo. Clone this repo, and in the folder “Instructions” you will find all the labs.
 
 ### Take an instructor-led training
 
